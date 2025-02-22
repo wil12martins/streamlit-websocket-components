@@ -1,2 +1,2 @@
 # streamlit-websocket-components
-Implementação de um componente  para o Streamlit para comunicação websocket em React.
+Implementação de um componente, em React, para comunicação websocket no Streamlit Python
